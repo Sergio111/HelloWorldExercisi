@@ -1,6 +1,6 @@
 # Project Name
 
-TODO: Write a project description
+Hello World test.
 
 ## Installation
 
